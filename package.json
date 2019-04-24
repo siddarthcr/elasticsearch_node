@@ -1,0 +1,23 @@
+{
+  "name": "elasticsearch_node",
+  "version": "1.0.0",
+  "description": "Node js project with minimal elastic search functions",
+  "main": "connection.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siddarthcr/elasticsearch_node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/siddarthcr/elasticsearch_node/issues"
+  },
+  "homepage": "https://github.com/siddarthcr/elasticsearch_node#readme",
+  "dependencies": {
+    "elasticsearch": "^15.4.1",
+    "get-json": "^1.0.1"
+  }
+}
